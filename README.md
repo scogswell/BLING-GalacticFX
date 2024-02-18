@@ -16,3 +16,8 @@ Get libraries from `https://circuitpython.org/libraries`
 Get your own BLING: https://unexpectedmaker.com/bling
 
 More BLING On github: https://github.com/UnexpectedMaker/bling
+
+
+
+https://github.com/scogswell/BLING-GalacticFX/assets/3185255/58fd53f6-7898-407e-bd59-cfc585fa8271
+
